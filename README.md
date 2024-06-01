@@ -6,3 +6,8 @@ Upon winning, the winner's selection (X or O) will turn green.
 
 The code and other resources have been provided.
 All the calculations within the code have been optimized to suit the GUI.
+
+Instructions:
+1. Install the directory
+2. Run main.py
+3. Play
